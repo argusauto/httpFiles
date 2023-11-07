@@ -1,0 +1,6 @@
+Plate,State
+FUN567,FL
+,TX
+DEP896,OH
+,CA
+WER964,NY
